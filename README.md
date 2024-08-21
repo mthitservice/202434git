@@ -1,5 +1,15 @@
 # 202434git
 Git Schulung
-## Überschrift2
+## Git Dokumentation
+https://git-scm.com/book/de/v2/Erste-Schritte-Was-ist-Git%3F
 
-## Überschift 3
+## Git Visualisierung
+https://github.com/git-school/visualizing-git
+
+## Git Rebasing https://git-scm.com/book/de/v2/Git-Branching-Rebasing
+
+## GitLab in Docker
+https://docs.gitlab.com/ee/install/docker/
+
+## CodeServer Docker
+https://docs.linuxserver.io/images/docker-code-server/
