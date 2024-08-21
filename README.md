@@ -1,5 +1,5 @@
 # 202434git
 Git Schulung
-## Überschrift 2
+## Überschrift2
 
 ## Überschift 3
